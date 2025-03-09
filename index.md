@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="assets/img/profile.jpg" alt="Kacper Frelek" style="border-radius: 50%; width: 150px;">
+<img src="assets/img/zdjecie.jpg" alt="Kacper Frelek" style="border-radius: 50%; width: 150px;">
 I'm a dedicated and communicative Aeromechanical Engineer with hands-on experience at the
 Warsaw Institute of Aviation for GE Aerospace. Skilled in tools like GageMap, Ansys, and NX, I focus
 on aeromechanical analysis, certification documentation, and international team collaboration. My
