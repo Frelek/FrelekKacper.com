@@ -14,7 +14,7 @@ closely with others.
 🚀 Aerospace Engineer specializing in **CFD, hypersonic aerodynamics, and reentry vehicle research.**  
 🔬 Focused on **Aeromechanics, numerical simulations, and spacecraft design.**
 
-![Profile Picture](zdjecie,jpg){: style="border-radius: 50%; width: 150px;"}
+
 
 ## Experience
 - **Rocket Factory Augsburg (RFA) - Internship (2025)**  
