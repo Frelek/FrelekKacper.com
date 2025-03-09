@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="profile.jpg" alt="Kacper Frelek" style="border-radius: 50%; width: 150px;">
+<img src="zdjecie.jpg" alt="Kacper Frelek" style="border-radius: 50%; width: 150px;">
 
 # Kacper Frelek  
 🚀 **Aerospace Engineer | CFD Enthusiast | Aeromechanic Engineer**
