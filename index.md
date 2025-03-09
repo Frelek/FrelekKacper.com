@@ -33,4 +33,4 @@ closely with others.
 🎓 Master’s in Aerospace Engineering  
 📍 Specialization: Hypersonic Flow & Reentry Physics  
 
-📬 **Contact:** [Email](mailto:kacperfrelek@gmail.com) | [LinkedIn]((https://www.linkedin.com/in/kacper-frelek-741545235/)) 
+📬 **Contact:** [Email](mailto:kacperfrelek@gmail.com) kacperfrelek@gmail.com | [LinkedIn]((https://www.linkedin.com/in/kacper-frelek-741545235/)) | [📄 View My CV](cv.html)
