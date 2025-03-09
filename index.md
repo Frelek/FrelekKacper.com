@@ -1,9 +1,7 @@
 ---
 layout: default
-title: "Kacper Frelek - Aerospace Engineer"
 ---
 
-# Kacper Frelek
 I'm a dedicated and communicative Aeromechanical Engineer with hands-on experience at the
 Warsaw Institute of Aviation for GE Aerospace. Skilled in tools like GageMap, Ansys, and NX, I focus
 on aeromechanical analysis, certification documentation, and international team collaboration. My
