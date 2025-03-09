@@ -4,5 +4,8 @@ plugins:
 
 title: "Kacper Frelek"
 description: "Aerospace Engineer | CFD enthusiast  | Aeromechanic Engineer"
+![Profile Picture](zdjecie,jpg){: style="border-radius: 50%; width: 150px;"}
+
+
 show_downloads: false
 theme: jekyll-theme-minimal
